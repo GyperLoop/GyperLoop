@@ -13,7 +13,4 @@ Languages and Tools
   <img src="https://github.com/GyperLoop/GyperLoop/blob/main/assets/MyMonkeytype.png" alt="App Store" width="180"/>
 </a>
 
-Follow Me!
-
-[![QDxr](https://github.com/user-attachments/assets/b58f509b-d5d1-4084-84e3-3414d12b107e)](https://www.youtube.com/watch?v=nElblXq8iLI)
-
+## Follow Me!
