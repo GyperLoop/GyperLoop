@@ -11,5 +11,8 @@ Languages and Tools
 ![Html](https://img.shields.io/badge/Html-grey?style=for-the-badge&logo=flutter)
 ![Json](https://img.shields.io/badge/Json-orange?style=for-the-badge&logo=json)
 
+<a href="https://monkeytype.com/profile/Oleksandr_Z" target="_blank">
+  <img src="https://github.com/GyperLoop/GyperLoop/blob/main/assets/MyMonkeytype.png" alt="App Store" width="180"/>
+</a>
 
 Follow Me!
