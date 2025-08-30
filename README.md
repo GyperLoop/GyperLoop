@@ -1,8 +1,6 @@
-## Hi there, Welcome 👋
+### Hi there, Welcome 👋
 
-## I`m a beginner Software Engeneer
-
-Languages and Tools
+__Languages and Tools__
 
 [![Python](https://img.shields.io/badge/Python-green?style=for-the-badge&logo=python)](https://www.w3schools.com/python/default.asp)
 [![Css](https://img.shields.io/badge/Css-blue?style=for-the-badge&logo=css)](https://www.w3schools.com/whatis/whatis_css.asp)
