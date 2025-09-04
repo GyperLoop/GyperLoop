@@ -12,3 +12,5 @@ __Languages and Tools__
 </a>
 
 ## Follow Me!
+
+![typing_dots_blue](https://github.com/user-attachments/assets/860a0762-5c52-43ed-ad63-41a1a4316f4c)
